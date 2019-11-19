@@ -1,3 +1,4 @@
+# Config
 - Copy .env-template to .env and fill in parameters into .env
 - .env itself won't be checked in, since it may contain sensitive data
 - config to fill in:
@@ -9,5 +10,6 @@
   - AP=vtrust-flash
   - GATEWAY=10.42.42.1
 
+# Starting and Stopping
 - Starting tuya-convert: sudo ./host/bin/start.sh
 - Stopping tuya-convert: sudo ./host/bin/stop.sh
