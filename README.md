@@ -1,5 +1,6 @@
 # Prerequisites
 - build docker-image with details from Docker-Images-Tuya (you can find it within my repositories)
+- you'll need docker-compose
 
 # Config
 - Copy .env-template to .env and fill in parameters into .env
