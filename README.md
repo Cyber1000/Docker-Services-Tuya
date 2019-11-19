@@ -1,5 +1,6 @@
 # Prerequisites
 - build docker-image with details from Docker-Images-Tuya (you can find it within my repositories)
+
 # Config
 - Copy .env-template to .env and fill in parameters into .env
 - .env itself won't be checked in, since it may contain sensitive data
